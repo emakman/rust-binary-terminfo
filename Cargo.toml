@@ -1,0 +1,13 @@
+[package]
+name = "binary_terminfo"
+version = "1.0.0"
+edition = "2018"
+authors = ["Tamvana Makuluni <29412577+emakman@users.noreply.github.com>"]
+description = "A lightweight reader and writer for the binary terminfo format used by ncures."
+license = "MIT"
+repository = "http://www.github.com/emakman/rust-binary-termminfo"
+readme = "README.md"
+keywords = ["terminal", "terminfo", "command-line"]
+categories = ["parser-implementations", "encoding"]
+
+[dependencies]
